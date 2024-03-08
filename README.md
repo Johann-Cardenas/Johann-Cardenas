@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/transporter_pe" target="blank"><img src="https://img.shields.io/twitter/follow/transporter_pe?logo=twitter&style=for-the-badge" alt="transporter_pe" /></a> </p>
 
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the **Illinois Center for Transportation (ICT)**
-- 👨‍💻 My field of expertise is **Computational Mechanics**, **Numerical Analysis** and **Data Science**.
+- 👨‍💻 Fields of Expertise: **Computational Mechanics**, **Numerical Analysis** and **Data Science**
 - 📄 Know about my research, and experience at my website: [https://johann-cardenas.github.io/Resume.html](https://johann-cardenas.github.io/Resume.html)
-- 🌱 I’m currently learning **Full-Stack Development**, **Machine Learning** and **High-Performance Computing**.
+- 🌱 I’m currently learning **Full-Stack Development**, **Machine Learning** and **High-Performance Computing**
 - 💬 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
 - 📫 Reach out to me at **johannc2@illinois.edu**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
