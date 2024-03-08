@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Johann</h1>
-<h3 align="center">PhD student in Civil Engineering at University of Illinois, Urbana-Champaign</h3>
+<h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas" alt="johann-cardenas" /></a> </p>
 
