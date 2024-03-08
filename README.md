@@ -8,10 +8,9 @@
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the **Illinois Center for Transportation (ICT)**
 - 👨‍💻 My research focuses on **Computational Mechanics**, **Numerical Analysis** and **Data Science**
 - 📄 Know about my academic work, and experience at my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
-- 🌱 I’m currently learning **Machine Learning**, **High-Performance Computing**, and **Full-Stack Development**
-- 💬 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
+- 💻 I’m currently learning **Machine Learning**, **High-Performance Computing**, and **Full-Stack Development**
+- 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
-- 😄 I don't really go by pronouns, but I guess mine are: he/him/his
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
