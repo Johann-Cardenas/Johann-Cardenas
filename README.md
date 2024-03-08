@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/transporter_pe" target="blank"><img src="https://img.shields.io/twitter/follow/transporter_pe?logo=twitter&style=for-the-badge" alt="transporter_pe" /></a> </p>
 
-- 🔭 I’m currently working as a **Graduate Research Assistant at the Illinois Center for Transportation**
-- 🌱 I’m currently learning **Full-Stack Development, Machine Learning and Generative AI**
-- 👨‍💻 All of my projects are available at [https://github.com/Johann-Cardenas](https://github.com/Johann-Cardenas)
-- 📝 I regularly write articles on [https://johann-cardenas.github.io/](https://johann-cardenas.github.io/)
-- 💬 Ask me about **Python, R, Matlab**
-- 📫 How to reach me **johannc2@illinois.edu**
-- 📄 Know about my experiences [https://johann-cardenas.github.io/Resume.html](https://johann-cardenas.github.io/Resume.html)
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact **I'm a Salsa Connoisseur**
+- 🔭 I’m currently working as a **Graduate Research Assistant** at the **Illinois Center for Transportation (ICT)**
+- 👨‍💻 My field of expertise is **Computational Mechanics**. My research is highlighted at [https://github.com/Johann-Cardenas](https://github.com/Johann-Cardenas)
+- 🌱 I’m currently learning **Full-Stack Development**, **Machine Learning** and **High-Performance Computing**.
+- 💬 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
+- 📫 Reach out to me at **johannc2@illinois.edu**
+- 📄 Know about my experiences by checking out my resume: [https://johann-cardenas.github.io/Resume.html](https://johann-cardenas.github.io/Resume.html)
+- ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
+- 😄 I don't really go by pronouns, but I guess mine are: he/him/his
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
