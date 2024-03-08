@@ -10,7 +10,6 @@
 - 📄 Know about my academic work, and experience at my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
 - 🌱 I’m currently learning **Machine Learning**, **High-Performance Computing**, and **Full-Stack Development**
 - 💬 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
-- 📫 Reach out to me at **johannc2@illinois.edu**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
 - 😄 I don't really go by pronouns, but I guess mine are: he/him/his
 
