@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is Johann</h1>
 <h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/transporter_pe" target="blank"><img src="https://img.shields.io/twitter/follow/transporter_pe?logo=twitter&style=for-the-badge" alt="transporter_pe" /></a> </p>
 
