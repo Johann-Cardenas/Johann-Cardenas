@@ -1,5 +1,3 @@
-<!--
-
 <h1 align="center">Hi 👋, this is Johann</h1>
 <h3 align="center">PhD student in Civil Engineering at University of Illinois, Urbana-Champaign</h3>
 
@@ -35,4 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johann-cardenas&" alt="johann-cardenas" /></p>
 
--->
