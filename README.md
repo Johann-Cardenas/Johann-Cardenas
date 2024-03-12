@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/transporter_pe" target="blank"><img src="https://img.shields.io/twitter/follow/transporter_pe?logo=twitter&style=for-the-badge" alt="transporter_pe" /></a> </p>
-
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the **Illinois Center for Transportation (ICT)**
 - 👨‍💻 My research focuses on **Computational Mechanics**, **Numerical Analysis** and **Data Science**
 - 📄 Know about my academic work, and experience at my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
@@ -13,7 +11,7 @@
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=johann-cardenas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=johann-cardenas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
