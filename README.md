@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this is Johann</h1>
+<h1 align="center" >Hi 👋, this is Johann</h1>
 <h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
@@ -9,6 +9,8 @@
 - 💻 I’m currently learning **Machine Learning**, **High-Performance Computing**, and **Full-Stack Development**
 - 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and obviously a **Tech Lover**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <h3>Highlights</h3>
