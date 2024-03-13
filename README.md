@@ -1,5 +1,6 @@
 <h1 align="center" >Hi 👋, this is Johann</h1>
 <h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
