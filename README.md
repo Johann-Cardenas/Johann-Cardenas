@@ -14,7 +14,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <h3>Highlights</h3>
     <div style="display: flex; justify-content: center; gap: 20px;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Cardenas&layout=compact&theme=radical" alt="Johann-Cardenas" />
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Johann-Cardenas&theme=radical" alt="Johann-Cardenas" />
