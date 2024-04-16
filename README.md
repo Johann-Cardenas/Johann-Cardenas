@@ -5,11 +5,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)
-- 👨‍💻 My research focuses on **Computational Mechanics**, **Numerical Analysis** and **Data Science**
+- 👨‍💻 My research focuses on **Computational Mechanics**, **Flexible Pavement Modeling**, **Numerical Analysis** and **Data Science**
 - 📄 Know about my academic work, and experience at my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
-- 💻 I’m currently learning **Machine Learning**, **High-Performance Computing**, and **Full-Stack Development**
+- 💻 I’m currently learning **Machine Learning**, **High-Performance Computing (HPC)**, and **Full-Stack Development**
 - 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
-- ⚡ Fun fact: I'm a **Salsa Connoisseur**, and not suprisingly a **Tech Lover**
+- ⚡ Fun fact: I'm a **Salsa Connoisseur**, and (not suprisingly) a **Tech Lover**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
