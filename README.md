@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)
 - 👨‍💻 My research focuses on **Computational Mechanics**, **Flexible Pavement Modeling**, **Numerical Analysis** and **Data Science**
-- 📄 Know about my academic work, and experience at my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
-- 💻 I’m currently learning **Machine Learning**, **High-Performance Computing (HPC)**, and **Full-Stack Development**
+- 📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
+- 💻 I’m currently learning about **Machine Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development**
 - 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and (not suprisingly) a **Tech Lover**
 
