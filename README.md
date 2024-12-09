@@ -5,9 +5,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
 - 🔭 I’m currently working as a **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)
-- 👨‍💻 My research focuses on **Computational Mechanics**, **Flexible Pavement Modeling**, **Numerical Analysis** and **Data Science**
+- 👨‍💻 My research focuses on **Computational Mechanics**, **Flexible Pavement Modeling**, and **Data Science**
 - 📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
-- 💻 I’m currently learning about **Machine Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development**
+- 💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development**
 - 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
 - ⚡ Fun fact: I'm a **Salsa Connoisseur**, and (not suprisingly) a **Tech Lover**
 
