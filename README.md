@@ -9,7 +9,7 @@
 - 📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
 - 💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development**
 - 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
-- ⚡ Fun fact: I'm a **Salsa Connoisseur**, and (not suprisingly) a **Tech Lover**
+- ⚡ Fun fact: I'm a **salsa connoisseur**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
