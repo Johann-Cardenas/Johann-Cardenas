@@ -1,15 +1,15 @@
-<h1 align="center" >Hi 👋, this is Johann</h1>
+<h1 align="center" >Hi👋🏽, I'm Johann</h1>
 <h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
 
-- 🔭 I’m currently working as a **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)
-- 👨‍💻 My research focuses on **Computational Mechanics**, **Flexible Pavement Modeling**, and **Data Science**
-- 📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io)
-- 💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development**
-- 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab**
-- ⚡ Fun fact: I'm a **salsa connoisseur**
+🔭 I’m currently working as a **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)<br>
+👨‍💻 My research focuses on applying **Computational Mechanics** to advance the numerical analysis of **Road Infrastructure** <br>
+📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io) <br>
+💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development** <br>
+🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab** <br>
+⚡ Surprise! I'm a connoisseur of fine **Salsa** <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
@@ -27,6 +27,8 @@
 <a href="https://stackoverflow.com/users/22317429/johann-j-cardenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johann-j-cardenas" height="30" width="40" /></a>
 <a href="https://instagram.com/eigencardenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eigencardenas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC11UB7tdGa_GYOMpx-eq2mA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@johann.cardenas" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Johann-Cardenas-3?ev=hdr_xprf" target="_blank" rel="noreferrer"> <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Johann-Cardenas" height="30" width="40" /></a> 
+<a href="https://scholar.google.com/citations?user=yBNtQBoAAAAJ&hl=en" target="_blank" rel="noreferrer"> <img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Johann J Cardenas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +39,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  
+
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
