@@ -2,7 +2,17 @@
 <h3 align="center">PhD student in CEE at University of Illinois, Urbana-Champaign. </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johann-cardenas&theme=darkhub&margin-w=10&margin-h=10&column=5" alt="johann-cardenas" /></a> </p> -->
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=True&author=Alan%20Touring&quote=A%20computer%20would%20deserve%20to%20be%20called%20intelligent%20if%20it%20could%20deceive%20a%20human%20into%20believing%20that%20it%20was%20human"
+      alt="Readme Quotes"
+    />
+  </a>
+</p>
+
 
 🔭 **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)<br>
 👨‍💻 My research focuses on applying **Computational Mechanics** to advance the numerical analysis of **Road Infrastructure** <br>
@@ -10,13 +20,17 @@
 💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development** <br>
 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab** <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="align-self: center;"> 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Cardenas&layout=compact&theme=radical" alt="Johann-Cardenas" />
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Johann-Cardenas&theme=radical" alt="Johann-Cardenas" />
-    </div>
+<div align="center">
+  <!--
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Cardenas&layout=compact&theme=radical"
+       alt="Johann-Cardenas" />
+  -->
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Johann-Cardenas&theme=radical"
+       alt="Johann-Cardenas" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
