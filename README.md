@@ -16,7 +16,7 @@
 
 🔭 **Graduate Research Assistant** at the [**Illinois Center for Transportation (ICT)**](https://ict.illinois.edu/)<br>
 👨‍💻 My research focuses on applying **Computational Mechanics** to advance the numerical analysis of **Road Infrastructure** <br>
-📄 Know about my academic work and experience through my website: [https://johann-cardenas.github.io](https://johann-cardenas.github.io) <br>
+📄 Know about my academic work and experience through my website: [https://johanncardenas.com](https://johanncardenas.com) <br>
 💻 I’m currently learning about **Deep Learning**, **High-Performance Computing (HPC)**, **LLMs** and **Full-Stack Development** <br>
 🔓 Ask me about **ABAQUS**, **Python**, **R**, and **Matlab** <br>
 
